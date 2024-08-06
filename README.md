@@ -36,7 +36,7 @@ This Library Management System was developed as a DBMS project during my second 
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/dhruth-in/Library-Management-System.git
    ```
 
 2. **Start the server:**
