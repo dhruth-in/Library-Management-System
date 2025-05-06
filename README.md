@@ -71,11 +71,6 @@ This Library Management System was developed as a DBMS project during my second 
    - Navigate to `http://localhost/library-management-system/student_register.php` to register.
    - After registration, log in at `http://localhost/library-management-system/student_login.php` to access the student dashboard.
 
-## Contributing
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-For any inquiries or issues, please contact me at dhruthin1907@gmail.com.
+## Author
+Dhruthi N
